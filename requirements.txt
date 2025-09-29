@@ -1,0 +1,38 @@
+# Core Telegram Bot Dependencies
+python-telegram-bot==20.6
+telethon==1.34.0
+
+# HTTP and Network
+httpx==0.25.2
+aiohttp==3.9.1
+
+# Database
+sqlite3  # Built-in Python module
+
+# Async Support
+asyncio  # Built-in Python module
+
+# Regular Expressions and Text Processing
+re  # Built-in Python module
+
+# Date and Time
+datetime  # Built-in Python module
+
+# Logging
+logging  # Built-in Python module
+
+# Type Hints
+typing  # Built-in Python module
+
+# Additional Dependencies for Stability
+certifi==2023.11.17
+charset-normalizer==3.3.2
+idna==3.6
+sniffio==1.3.0
+anyio==4.2.0
+
+# Cryptography (required by telethon)
+cryptography==41.0.8
+
+# Additional useful packages
+requests==2.31.0
