@@ -2,8 +2,8 @@ import os
 
 BOT_TOKEN = ""  # Replace with your bot token from @BotFather
 
-API_ID = 12626897  # Replace with your API ID
-API_HASH = "169b4455fe17dddc8aebfa255a62a82d"  # Replace with your API hash
+API_ID = ""  # Replace with your API ID
+API_HASH = ""  # Replace with your API hash
 
 # Database configuration
 DATABASE_FILE = "users.db"
@@ -51,3 +51,4 @@ START_COLLECTING = "🚀 بدء التجميع التلقائي"
 STOP_COLLECTING = "⏹️ إيقاف التجميع"
 ACCOUNT_STATUS = "📊 حالة الحساب"
 REGISTER_ACCOUNT = "📝 تسجيل حساب جديد"
+
